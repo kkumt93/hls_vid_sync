@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="vid_sync.cpp" path="C:\Users\Kazuaki\Documents\GitHub\hls_vid_sync\vid_sync.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="sc_main.cpp" path="C:\Users\Kazuaki\Documents\GitHub\hls_vid_sync\sc_main.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
